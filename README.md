@@ -5,3 +5,4 @@
  * [LEGO Mindstorms EV3](http://www.amazon.com/LEGO-6029291-Mindstorms-EV3-31313/dp/B00CWER3XY/)
  * [Подарочные карты iTunes](https://money.yandex.ru/games/shop.xml?scid=5503)
  * [Anki DRIVE Starter Kit](http://www.amazon.com/Anki-DRIVE-Starter-Kit/dp/B00G6MWM1Q/)
+ * Подарочные издания книг о [Эрасте Фандорине](http://www.ozon.ru/?context=search&group=div_book&text=%f4%e0%ed%e4%ee%f0%e8%ed+%ef%ee%e4%e0%f0%ee%f7%ed%fb%e5+%e8%e7%e4%e0%ed%e8%ff)
