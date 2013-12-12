@@ -11,3 +11,4 @@
  * Книга «[Darth Vader and Son](http://www.amazon.com/gp/product/145210655X/ref=pe_55990_63132290_em_1p_0_ti)»
  * Книга «[Star Wars: Vader's Little Princess](http://www.amazon.com/gp/product/1452118698/ref=pe_55990_63132290_em_1p_1_ti)»
  * [Olloclip iPhone 5/5s 4-IN-1 lens system](https://www.olloclip.com/order/iphone5) Color: Red Lens/Black Clip
+ * Весы [Withings Smart Body Analyzer](http://www.withings.com/en/bodyanalyzer)
