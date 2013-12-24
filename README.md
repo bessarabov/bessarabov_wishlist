@@ -14,3 +14,4 @@
  * Весы [Withings Smart Body Analyzer](http://www.withings.com/en/bodyanalyzer)
  * Форма для льда [Onyx 18/8 Stainless Steel 18 Slot Ice Cube Tray](http://www.amazon.com/Onyx-Stainless-Steel-Slot-Cube/dp/B0027V9OR0/)
  * Штуки для умного дома [WeMo Switch + Motion](http://www.belkin.com/us/F5Z0340-Belkin/p/P-F5Z0340/)
+ * Пульсометр. Не знаю какой, хотелось бы чтобы он работать в связке с iPhone app RunKeeper
