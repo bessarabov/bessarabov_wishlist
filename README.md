@@ -15,3 +15,4 @@
  * Форма для льда [Onyx 18/8 Stainless Steel 18 Slot Ice Cube Tray](http://www.amazon.com/Onyx-Stainless-Steel-Slot-Cube/dp/B0027V9OR0/)
  * Штуки для умного дома [WeMo Switch + Motion](http://www.belkin.com/us/F5Z0340-Belkin/p/P-F5Z0340/)
  * [ElevationDock 2 for iPhone5/5s/5c](http://www.elevationlab.com/products/elevationdock-for-iphone5)
+ * [Netatmo Weather Station](http://www.netatmo.com/en-US/product)
