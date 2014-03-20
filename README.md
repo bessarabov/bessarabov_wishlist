@@ -21,7 +21,6 @@
 
 ## Гаджеты
 
- * Весы [Withings Smart Body Analyzer](http://www.withings.com/en/bodyanalyzer)
  * Штуки для умного дома [WeMo Switch + Motion](http://www.belkin.com/us/F5Z0340-Belkin/p/P-F5Z0340/)
  * [Netatmo Weather Station](http://www.netatmo.com/en-US/product)
 
