@@ -15,7 +15,6 @@
 ## Для Apple
 
  * [Подарочные карты iTunes](https://money.yandex.ru/games/shop.xml?scid=5503)
- * [Apple TV](http://store.apple.com/ru/ipod/ipod-accessories/apple-tv)
  * Стилус для iPad [Walnut pencil](http://www.fiftythree.com/pencil)
  * [Olloclip iPhone 5/5s 4-IN-1 lens system](https://www.olloclip.com/order/iphone5) Color: Red Lens/Black Clip
  * [ElevationDock 2 for iPhone5/5s/5c](http://www.elevationlab.com/products/elevationdock-for-iphone5)
