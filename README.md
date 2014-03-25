@@ -10,7 +10,6 @@
 
  * [LEGO Mindstorms EV3](http://www.amazon.com/LEGO-6029291-Mindstorms-EV3-31313/dp/B00CWER3XY/)
  * [Anki DRIVE Starter Kit](http://www.amazon.com/Anki-DRIVE-Starter-Kit/dp/B00G6MWM1Q/)
- * [Жеский диск для Xbox 360](http://www.xbox.com/en-US/Xbox360/Accessories/HardDrives) (для обычного Xbox, не для slim)
 
 ## Для Apple
 
