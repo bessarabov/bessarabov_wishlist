@@ -18,6 +18,7 @@
  * [Olloclip iPhone 5/5s 4-IN-1 lens system](https://www.olloclip.com/order/iphone5) Color: Red Lens/Black Clip
  * [ElevationDock 2 for iPhone5/5s/5c](http://www.elevationlab.com/products/elevationdock-for-iphone5)
  * Чехол для iPhone 5s для крепления на руку (для бега). Например, [Minisuit SPORTY](http://www.amazon.com/Minisuit-SPORTY-Armband-Holder-iPhone/dp/B00APLY6EA/ref=sr_1_1?ie=UTF8&qid=1395904541&sr=8-1&keywords=iphone+5s+case+running)
+ * Какие-нибудь беспроводные наушники для iPhone для того чтобы бегать с ними
 
 ## Гаджеты
 
