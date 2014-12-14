@@ -18,6 +18,11 @@
  * [Olloclip iPhone 5/5s 4-IN-1 lens system](https://www.olloclip.com/order/iphone5) Color: Red Lens/Black Clip
  * [ElevationDock 2 for iPhone5/5s/5c](http://www.elevationlab.com/products/elevationdock-for-iphone5)
 
+## Для Raspberry Pi
+
+ * SD карта на 8 GB
+ * [USB WiFi донгл](http://amperka.ru/product/wi-pi)
+
 ## Гаджеты
 
  * Штуки для умного дома [WeMo Switch + Motion](http://www.belkin.com/us/F5Z0340-Belkin/p/P-F5Z0340/)
