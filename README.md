@@ -4,7 +4,6 @@
 
  * Книга «[Волшебный двурог](http://www.ozon.ru/?context=search&text=%e2%ee%eb%f8%e5%e1%ed%fb%e9+%e4%e2%f3%f0%ee%e3)»
  * Книга «[Darth Vader and Son](http://www.amazon.com/gp/product/145210655X/ref=pe_55990_63132290_em_1p_0_ti)»
- * Книга «[Star Wars: Vader's Little Princess](http://www.amazon.com/gp/product/1452118698/ref=pe_55990_63132290_em_1p_1_ti)»
 
 ## Игрушки
 
