@@ -24,7 +24,6 @@
 ## Гаджеты
 
  * Штуки для умного дома [WeMo Switch + Motion](http://www.belkin.com/us/F5Z0340-Belkin/p/P-F5Z0340/)
- * [Netatmo Weather Station](http://www.netatmo.com/en-US/product)
  * [bt.tn](http://bt.tn/)
  * Беспроводная колонка [Big Jabmbox](https://jawbone.com/speakers/bigjambox)
  * Беспроводная колонка [BathBeats](http://bathbeats.ru/scripts/product_page.php?id=1)
