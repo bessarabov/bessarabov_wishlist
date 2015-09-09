@@ -13,7 +13,6 @@
 ## Для Apple
 
  * [Подарочные карты iTunes](https://money.yandex.ru/games/shop.xml?scid=5503)
- * Стилус для iPad [Walnut pencil](http://www.fiftythree.com/pencil)
  * [ElevationDock 2 for iPhone5/5s/5c](http://www.elevationlab.com/products/elevationdock-for-iphone5)
 
 ## Для Raspberry Pi
