@@ -15,6 +15,10 @@
  * [Подарочные карты iTunes](https://money.yandex.ru/games/shop.xml?scid=5503)
  * [ElevationDock 2 for iPhone5/5s/5c](http://www.elevationlab.com/products/elevationdock-for-iphone5)
 
+## Smth
+
+ * [Рубашка](http://www.ellyprizeman.com/product/bowlinghawaiian-shirt/)
+
 ## Для Raspberry Pi
 
  * SD карта на 8 GB
