@@ -30,6 +30,7 @@
  * [bt.tn](http://bt.tn/)
  * Беспроводная колонка [Big Jabmbox](https://jawbone.com/speakers/bigjambox)
  * Беспроводная колонка [BathBeats](http://bathbeats.ru/scripts/product_page.php?id=1)
+ * [DISPLIO](http://displ.io/)
 
 ## Для кухни
 
